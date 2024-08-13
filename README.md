@@ -33,3 +33,14 @@ This project supports the following PID control algorithms:
     The Derivative Ahead PID Control Algorithm
     The PID Control Algorithm with Dead Zone
 Whether you want to improve work efficiency or prepare for exams, this app will help you easily master the essentials of PID control.
+
+![hi](IMG_6261.PNG)
+
+<span style="color:red; font-size:18px;">Support or Contact</span>
+
+<span style="color:red; font-size:16px;">qqGroup: 820594265</span>
+
+<span style="color:red; font-size:16px;">Email: supportsw365@163.com</span>
+
+
+
